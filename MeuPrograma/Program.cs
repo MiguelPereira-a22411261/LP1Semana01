@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Text;
 
 namespace MeuPrograma
@@ -26,6 +26,7 @@ namespace MeuPrograma
             long k = 3L;
             ulong n = 3UL;
             Console.WriteLine(x + " " + y + " " + z + " " + k + " " + n);
+            
         }
     }
 }
