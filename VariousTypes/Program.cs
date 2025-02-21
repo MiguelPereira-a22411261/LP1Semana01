@@ -10,6 +10,10 @@ namespace VariousTypes
             int i = 1;
             uint j = 1U;
             Console.WriteLine(i + " " + j);
+            char copyrightSymbol = '\u009A'
+            char omega = '\u03A9'
+            Console.WriteLine(copyrightSymbol + " " + omega);
+            
         }
     }
 }
